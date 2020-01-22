@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1026226680087",
+    "firebase_url": "https://cafezh-fd976.firebaseio.com",
+    "project_id": "cafezh-fd976",
+    "storage_bucket": "cafezh-fd976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026226680087:android:159c67265d22cc15d94752",
+        "android_client_info": {
+          "package_name": "com.balzhoyt.cafezh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026226680087-t4k7n6kgnv6m3lfggete5a34nl75as15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.balzhoyt.cafezh",
+            "certificate_hash": "03e70ab3f440838d2cc0bfd39a42b81ded57f263"
+          }
+        },
+        {
+          "client_id": "1026226680087-gto1enb5a7eu6eu7vdt1tutt4o165u8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6MSF7Vy4UVRGFbiqCCwNGomFYNQUyK5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026226680087-gto1enb5a7eu6eu7vdt1tutt4o165u8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
